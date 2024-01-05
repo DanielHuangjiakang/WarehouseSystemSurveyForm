@@ -7,7 +7,7 @@ This project is a Warehouse System Survey Form designed to gather feedback from 
 
 ## Screenshot
 
-[<img src="https://github.com/DanielHuangjiakang/WarehouseSystemSurveyForm/blob/main/warehouseSurveyFormScreenShort.png?raw=true" width="600" height="300"/>]
+<img src="https://github.com/DanielHuangjiakang/WarehouseSystemSurveyForm/blob/main/warehouseSurveyFormScreenShort.png?raw=true" width="600" height="700"/>
 
 ### Features
 
