@@ -4,6 +4,8 @@
 
 This project is a Warehouse System Survey Form designed to gather feedback from users to improve the software. The form is created using HTML and CSS, and it is structured to provide a user-friendly and responsive interface for collecting valuable user insights.
 
+## Link to the project
+https://danielhuangjiakang.github.io/WarehouseSystemSurveyForm/
 
 ## Screenshot
 
