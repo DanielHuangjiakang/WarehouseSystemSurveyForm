@@ -1,2 +1,0 @@
-# WarehouseSystemSurveyForm
-HTML and CSS
