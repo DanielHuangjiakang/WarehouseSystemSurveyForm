@@ -10,11 +10,15 @@
     <title>Warehouse System Survey Form</title>
   </head>
 
+  <body>
   <main>
-    <h1 id="title">Warehouse System Survey Form</h1>
-    <p id="description">
+    <div class="title">
+      <h1 id="title">Warehouse System Survey Form</h1>
+      <p id="description" class="description">
       Thank you for taking the time to help us improve the software
-    </p>
+      </p>
+    </div>
+
     <form action="URL" method="POST" id="survey-form">
     <fieldset>
         <label for="name" id="name-label"
@@ -41,28 +45,32 @@
     
     <fieldset> 
         <legend>Would you recommend this software to others?</legend>
-        <label for="Definitely"><input type="radio" class="inline" name="recommend" id="Definitely" value="13" checked>Definitely</label>
-        <label for="Maybe"><input type="radio" class="inline" name="recommend" id="Maybe" value="14">Maybe</label>
-        <label for="Not sure"><input type="radio" class="inline" name="recommend" id="Not sure" value="15">Not sure</label>
+        <label for="Definitely" class="close"><input type="radio" class="inline" name="recommend" id="Definitely" value="13" checked> Definitely</label>
+        <label for="Maybe" class="close"><input type="radio" class="inline" name="recommend" id="Maybe" value="14"> Maybe</label>
+        <label for="Not sure" class="close"><input type="radio" class="inline" name="recommend" id="Not sure" value="15"> Not sure</label>
     </fieldset>
 
     <fieldset>
         <legend>What would you like to see improved? (Check all that apply)</legend>
-        <label><input type="checkbox" value="6">"UI"</label>
-        <label><input type="checkbox" value="7">Login System</label>
-        <label><input type="checkbox" value="8">Dashboard</label>
-        <label><input type="checkbox" value="9">Storage Records</label>
-        <label><input type="checkbox" value="10">User Information</label>
-        <label><input type="checkbox" value="11">Products Adding Or Removing Part</label>
-        <label><input type="checkbox" value="12">Warehouse Products visualization Part</label>
+        <label class="close"><input type="checkbox" value="6" class="inline"> "UI"</label>
+        <label class="close"><input type="checkbox" value="7" class="inline"> Login System</label>
+        <label class="close"><input type="checkbox" value="8" class="inline"> Dashboard</label>
+        <label class="close"><input type="checkbox" value="9" class="inline"> Storage Records</label>
+        <label class="close"><input type="checkbox" value="10" class="inline"> User Information</label>
+        <label class="close"><input type="checkbox" value="11" class="inline"> Products Adding Or Removing Part</label>
+        <label class="close"><input type="checkbox" value="12" class="inline"> Warehouse Products visualization Part</label>
     </fieldset>
     
     <fieldset>
         <legend>Any comments or suggestions?</legend>
         <textarea name="" id="" cols="30" rows="10" placeholder="Enter your comments here..."></textarea>
     </fieldset>
-
-    <button type="submit" id="submit" class="submit-button">Submit</button>
+    
+    <fieldset>
+      <button type="submit" id="submit" class="submit-button">Submit</button>
+   </fieldset>
     </form>
   </main>
+  </body>
+
 </html>
