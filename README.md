@@ -4,6 +4,11 @@
 
 This project is a Warehouse System Survey Form designed to gather feedback from users to improve the software. The form is created using HTML and CSS, and it is structured to provide a user-friendly and responsive interface for collecting valuable user insights.
 
+
+## Screenshot
+
+[<img src="https://github.com/DanielHuangjiakang/Warehouse-System/blob/main/promotional_image.png?raw=true" width="600" height="300"/>]
+
 ### Features
 
 - Responsive design for various devices
@@ -13,10 +18,6 @@ This project is a Warehouse System Survey Form designed to gather feedback from 
 - Checkboxes for indicating areas for improvement
 - Text area for additional comments or suggestions
 - Submit button to post responses
-
-## Screenshot
-
-[<img src="https://github.com/DanielHuangjiakang/Warehouse-System/blob/main/promotional_image.png?raw=true" width="600" height="300"/>]
 
 ## Installation
 
