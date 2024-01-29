@@ -9,7 +9,7 @@ https://danielhuangjiakang.github.io/WarehouseSystemSurveyForm/
 
 ## UI Screenshot
 
-<img src="https://github.com/DanielHuangjiakang/WarehouseSystemSurveyForm/blob/main/warehouseSurveyFormScreenShort.png?raw=true" width="350" height="600"/>
+<img src="https://github.com/DanielHuangjiakang/WarehouseSystemSurveyForm/blob/main/warehouseSurveyFormScreenShort.png?raw=true" width="350" height="700"/>
 
 ### Features
 
