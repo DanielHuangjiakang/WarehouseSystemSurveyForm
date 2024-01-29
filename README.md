@@ -7,7 +7,7 @@ This project is a Warehouse System Survey Form designed to gather feedback from 
 ## Link to the project
 https://danielhuangjiakang.github.io/WarehouseSystemSurveyForm/
 
-## Screenshot
+## UI Screenshot
 
 <img src="https://github.com/DanielHuangjiakang/WarehouseSystemSurveyForm/blob/main/warehouseSurveyFormScreenShort.png?raw=true" width="350" height="600"/>
 
